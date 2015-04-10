@@ -1,14 +1,14 @@
-# hackUSU.Learn
+# hackusu.learn
 
 
-# guides
+# guides.and.tools
 | Link        | Description                                    |
 |-------------|----------------------------------------------|
 | Getting Started | Read this first if you're new to hackUSU! |
 | Tools | Tools we use and suggest. |
 | Other | Other Stuff. |
 
-# brain food
+# brain.food
 | Link        | Description                                    |
 |-------------|----------------------------------------------|
 | HTML | Learn HTML | 
