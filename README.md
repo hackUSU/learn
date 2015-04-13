@@ -4,7 +4,7 @@
 # guides.and.tools
 | Link        | Description                                    |
 |-------------|----------------------------------------------|
-| Getting Started | Read this first if you're new to hackUSU! |
+| [Getting Started] | Read this first if you're new to hackUSU! |
 | Tools | Tools we use and suggest. |
 | Other | Other Stuff. |
 
@@ -25,3 +25,4 @@
 | iOS | Learn Swift and Objective-C |
 
 <!-- Links -->
+[Getting Started]: https://github.com/hackUSU/learn/blob/master/guides/Getting-Started.md
