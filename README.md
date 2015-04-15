@@ -11,10 +11,10 @@
 # brain.food
 | Link        | Description                                    |
 |-------------|----------------------------------------------|
-| HTML | Learn HTML |
-| CSS | Learn CSS |
-| Node.js | Learn Node.js, npm, and more |
-| Javascript | Learn Javascript |
+| [HTML] | Learn HTML |
+| [CSS] | Learn CSS |
+| [Node.js] | Learn Node.js, npm, and more |
+| [Javascript] | Learn Javascript |
 | SQLite | Learn SQLite |
 | Git | Learn Git and Version Control |
 | Unity 3D | Learn Unity 3D |
@@ -27,3 +27,7 @@
 <!-- Links -->
 [Getting Started]: https://github.com/hackUSU/learn/blob/master/guides/Getting-Started.md
 [tools]: https://github.com/hackUSU/learn/blob/master/guides/tools.md
+[HTML]: https://github.com/hackUSU/learn/blob/master/brainfood/html.md
+[CSS]: https://github.com/hackUSU/learn/blob/master/brainfood/css.md
+[Node.js]: https://github.com/hackUSU/learn/blob/master/brainfood/nodejs.md
+[Javascript]: https://github.com/hackUSU/learn/blob/master/brainfood/js.md
