@@ -17,7 +17,7 @@
 | [Javascript] | Learn Javascript |
 | SQLite | Learn SQLite |
 | Git | Learn Git and Version Control |
-| Unity 3D | Learn Unity 3D |
+| [Unity3D] | Learn Unity 3D |
 | Go | Learn Go |
 | Python | Learn Python |
 | AngularJS | Learn Angular JS |
@@ -31,3 +31,4 @@
 [CSS]: https://github.com/hackUSU/learn/blob/master/brainfood/css.md
 [Node.js]: https://github.com/hackUSU/learn/blob/master/brainfood/nodejs.md
 [Javascript]: https://github.com/hackUSU/learn/blob/master/brainfood/js.md
+[Unity3D]: https://github.com/hackUSU/learn/edit/master/brainfood/unity3d.md
