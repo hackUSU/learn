@@ -6,5 +6,5 @@ Unity makes it easy to get started, It gets all of the grunt work out of the way
 ## Tutorials
 * [Unity Learn] - Unity's own library of resources, many tutorials/presentations/documentation.
 
-[More]: http://unity3d.com/unity/multiplatform
+[More.]: http://unity3d.com/unity/multiplatform
 [Unity Learn]: http://unity3d.com/learn
