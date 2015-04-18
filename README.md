@@ -18,6 +18,7 @@
 | SQLite | Learn SQLite |
 | Git | Learn Git and Version Control |
 | [Unity3D] | Learn Unity 3D |
+| [GameDesign] | Learn fundementals of Game Design |
 | Go | Learn Go |
 | Python | Learn Python |
 | AngularJS | Learn Angular JS |
@@ -31,4 +32,5 @@
 [CSS]: https://github.com/hackUSU/learn/blob/master/brainfood/css.md
 [Node.js]: https://github.com/hackUSU/learn/blob/master/brainfood/nodejs.md
 [Javascript]: https://github.com/hackUSU/learn/blob/master/brainfood/js.md
-[Unity3D]: https://github.com/hackUSU/learn/edit/master/brainfood/unity3d.md
+[Unity3D]: https://github.com/hackUSU/learn/blob/master/brainfood/unity3d.md
+[GameDesign]: https://github.com/hackUSU/learn/blob/master/brainfood/GameDesign.md
