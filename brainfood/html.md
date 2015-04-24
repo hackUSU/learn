@@ -1,5 +1,5 @@
 # html brain.food
-HTML stands for HyperText Markup Language. It is the standard markup language used to create web pages. It is written in the form of HTML elements consisting of tags enclosed in angle brackets. (`<html>`).
+HTML stands for HyperText Markup Language. It is the standard markup language used to create web pages. A markup language is simply adding small elements to text in order to explain to the web browser how the text and images should be formatted on the page. These small elements are in the form of tags enclosed in angle brackets. (`<html>`).
 
 
 ## Tutorials
