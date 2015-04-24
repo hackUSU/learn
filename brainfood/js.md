@@ -1,5 +1,5 @@
 # javascript brain.food
-Javascript is a dynamic programming language. It is most commonly used as part of web browsers whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed.
+Javascript is a dynamic programming language. It is most commonly used as part of web browsers.  Most pages you visit on the web has javascript that is run in your web broswer to provide instant feedback. These scripts interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed.
 
 ## Tutorials
 * [Codecademy] - Learn the fundamentals of Javascript, the programming language of the web.
