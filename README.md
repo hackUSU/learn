@@ -16,11 +16,11 @@
 | [Node.js] | Learn Node.js, npm, and more |
 | [Javascript] | Learn Javascript |
 | SQLite | Learn SQLite |
-| Git | Learn Git and Version Control |
+| [Git] | Learn Git and Version Control |
 | [Unity3D] | Learn Unity 3D |
 | [GameDesign] | Learn fundementals of Game Design |
 | Go | Learn Go |
-| Python | Learn Python |
+| [Python] | Learn Python |
 | AngularJS | Learn Angular JS |
 | Ruby | Learn Ruby / Ruby on Rails |
 | iOS | Learn Swift and Objective-C |
@@ -32,5 +32,7 @@
 [CSS]: https://github.com/hackUSU/learn/blob/master/brainfood/css.md
 [Node.js]: https://github.com/hackUSU/learn/blob/master/brainfood/nodejs.md
 [Javascript]: https://github.com/hackUSU/learn/blob/master/brainfood/js.md
+[Git]: https://github.com/hackUSU/learn/blob/master/brainfood/git.md
 [Unity3D]: https://github.com/hackUSU/learn/blob/master/brainfood/unity3d.md
 [GameDesign]: https://github.com/hackUSU/learn/blob/master/brainfood/GameDesign.md
+[Python]: https://github.com/hackUSU/learn/blob/master/brainfood/Python.md
