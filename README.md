@@ -35,4 +35,4 @@
 [Git]: https://github.com/hackUSU/learn/blob/master/brainfood/git.md
 [Unity3D]: https://github.com/hackUSU/learn/blob/master/brainfood/unity3d.md
 [GameDesign]: https://github.com/hackUSU/learn/blob/master/brainfood/GameDesign.md
-[Python]: https://github.com/hackUSU/learn/blob/master/brainfood/Python.md
+[Python]: https://github.com/hackUSU/learn/blob/master/brainfood/python.md
