@@ -19,7 +19,7 @@
 | [Git] | Learn Git and Version Control |
 | [Unity3D] | Learn Unity 3D |
 | [GameDesign] | Learn fundementals of Game Design |
-| Go | Learn Go |
+| [Go] | Learn Go |
 | [Python] | Learn Python |
 | AngularJS | Learn Angular JS |
 | Ruby | Learn Ruby / Ruby on Rails |
@@ -35,4 +35,5 @@
 [Git]: https://github.com/hackUSU/learn/blob/master/brainfood/git.md
 [Unity3D]: https://github.com/hackUSU/learn/blob/master/brainfood/unity3d.md
 [GameDesign]: https://github.com/hackUSU/learn/blob/master/brainfood/GameDesign.md
+[Go]: https://github.com/hackUSU/learn/blob/master/brainfood/go.md
 [Python]: https://github.com/hackUSU/learn/blob/master/brainfood/python.md
