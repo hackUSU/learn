@@ -21,7 +21,7 @@
 | [GameDesign] | Learn fundementals of Game Design |
 | [Go] | Learn Go |
 | [Python] | Learn Python |
-| AngularJS | Learn Angular JS |
+| [AngularJS] | Learn Angular JS |
 | Ruby | Learn Ruby / Ruby on Rails |
 | iOS | Learn Swift and Objective-C |
 
@@ -37,3 +37,4 @@
 [GameDesign]: https://github.com/hackUSU/learn/blob/master/brainfood/GameDesign.md
 [Go]: https://github.com/hackUSU/learn/blob/master/brainfood/go.md
 [Python]: https://github.com/hackUSU/learn/blob/master/brainfood/python.md
+[AngularJS]: https://github.com/hackUSU/learn/blob/master/brainfood/angularjs.md
