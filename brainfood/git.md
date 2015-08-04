@@ -3,10 +3,12 @@ Git is a method of version control.  Version control is keeping track of what ch
 
 ## Tutorials
 * [Ralf Ebert] - Beginning Git tutorial, including installation instructions.
+* [Git Videos] - Learn more about Git with these videos.
 * [Pro Git] - Online book on Git written by a developer working on GitHub
 * [Git Immersion] - Step-by-step, hands-on guide to Git.  Great to jump right into Git.
 
 <!-- Links -->
 [Ralf Ebert]:http://www.ralfebert.de/tutorials/git/
+[Git Videos]:http://git-scm.com/videos
 [Pro Git]:http://git-scm.com/book/en/v2
 [Git Immersion]:http://gitimmersion.com/
