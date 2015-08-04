@@ -23,6 +23,7 @@ Every good developer needs a good set of tools. We hope we've complied a good li
 
 # Articles
 * [How to be a Great Developer]
+* [How to Become A Hacker] - Classic article on Hacker how-tos and whys written by Eric S. Raymond
 
 
 <!-- Bundle Links -->
@@ -47,3 +48,4 @@ Every good developer needs a good set of tools. We hope we've complied a good li
 
 <!-- Articles -->
 [How to be a Great Developer]: https://the-pastry-box-project.net/ed-finkler/2014-january-6
+[How to Become A Hacker]: http://www.catb.org/~esr/faqs/hacker-howto.html
