@@ -12,6 +12,7 @@ Javascript is a dynamic programming language. It is most commonly used as part o
 * [Eloquent Javascript] - A book about Javascript and programming.
 * [JSDares] - Make your own games by learning Javascript programming!
 * [Douglas Crockford Lectures] - 14 Videos to learn the best of Javascript.
+* [What The Heck Is The Event Loop Anyway?] - An explanation of how Javascript works.
 
 
 <!-- Links -->
@@ -25,3 +26,4 @@ Javascript is a dynamic programming language. It is most commonly used as part o
 [JSDares]: http://www.jsdares.com/
 [Douglas Crockford Lectures]: https://www.youtube.com/watch?v=v2ifWcnQs6M&list=PL62E185BB8577B63D
 [KhanAcademy]: https://www.khanacademy.org/computing/computer-programming/programming
+[What The Heck Is The Event Loop Anyway?]: http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html
