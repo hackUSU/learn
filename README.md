@@ -28,6 +28,7 @@
 
 <!-- Links -->
 [Getting Started]: https://github.com/hackUSU/learn/blob/master/guides/Getting-Started.md
+[Git Tutorial]: https://github.com/hackUSU/learn/blob/master/guides/git-tutorial.md
 [tools]: https://github.com/hackUSU/learn/blob/master/guides/tools.md
 [HTML]: https://github.com/hackUSU/learn/blob/master/brainfood/html.md
 [CSS]: https://github.com/hackUSU/learn/blob/master/brainfood/css.md
@@ -39,4 +40,4 @@
 [Go]: https://github.com/hackUSU/learn/blob/master/brainfood/go.md
 [Python]: https://github.com/hackUSU/learn/blob/master/brainfood/python.md
 [AngularJS]: https://github.com/hackUSU/learn/blob/master/brainfood/angularjs.md
-[Git Tutorial]: https://github.com/hackUSU/learn/blob/master/brainfood/git-tutorial.md
+
