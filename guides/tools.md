@@ -2,7 +2,7 @@
 Every good developer needs a good set of tools. We hope we've complied a good list for you to peruse when you're in need of something.
 
 # Bundles
-* [Github Student Developer Pack] - The best developer tools, free for students
+* [Github Student Developer Pack] - The best developer tools, free for students.
 
 # Editors
 * [Atom.io] - A hackable text editor for the 21st Century.
@@ -14,10 +14,12 @@ Every good developer needs a good set of tools. We hope we've complied a good li
 # Version Control
 * [Git] - The staple in version control.
 * [PoshGit] - Git Plugin for Powershell
+* [GitHub Desktop] - Git GUI made by GitHub
 
 
 # Team Organization
 * [Trello] - Trello is the free, flexible, and visual way to organize anything with anyone.
+* [PivotalTracker] - Great Project Management Software (Agile) etc.
 * [Wunderlist] - To Do / Task List. Wunderlist is the easiest way to get stuff done.
 * [MindNode] - Mind Mapping Software.
 
@@ -40,11 +42,13 @@ Every good developer needs a good set of tools. We hope we've complied a good li
 <!-- Version Control -->
 [Git]: http://git-scm.org
 [PoshGit]: https://github.com/dahlbyk/posh-git
+[GitHub Desktop]: https://desktop.github.com/
 
 <!-- Team Organization -->
 [Trello]: https://trello.com/
 [Wunderlist]: https://www.wunderlist.com/
 [MindNode]: http://mindnode.com/
+[PivotalTracker]: https://www.pivotaltracker.com/
 
 <!-- Articles -->
 [How to be a Great Developer]: https://the-pastry-box-project.net/ed-finkler/2014-january-6
