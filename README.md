@@ -30,7 +30,7 @@
 <!-- Links -->
 [Getting Started]: https://github.com/hackUSU/learn/blob/master/guides/Getting-Started.md
 [Git Tutorial]: https://github.com/hackUSU/learn/blob/master/guides/git-tutorial.md
-[HTML Tutorial]: http://google.com
+[HTML Tutorial]: https://github.com/hackUSU/learn/blob/master/guides/html-tutorial.md
 [tools]: https://github.com/hackUSU/learn/blob/master/guides/tools.md
 [HTML]: https://github.com/hackUSU/learn/blob/master/brainfood/html.md
 [CSS]: https://github.com/hackUSU/learn/blob/master/brainfood/css.md
