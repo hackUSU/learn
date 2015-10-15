@@ -18,8 +18,9 @@ Every good developer needs a good set of tools. We hope we've complied a good li
 
 
 # Team Organization
+* [Slack] - Literally the best chat client available.
 * [Trello] - Trello is the free, flexible, and visual way to organize anything with anyone.
-* [PivotalTracker] - Great Project Management Software (Agile) etc.
+* [Pivotal Tracker] - Great Project Management Software (Agile) etc.
 * [Wunderlist] - To Do / Task List. Wunderlist is the easiest way to get stuff done.
 * [MindNode] - Mind Mapping Software.
 
@@ -48,7 +49,8 @@ Every good developer needs a good set of tools. We hope we've complied a good li
 [Trello]: https://trello.com/
 [Wunderlist]: https://www.wunderlist.com/
 [MindNode]: http://mindnode.com/
-[PivotalTracker]: https://www.pivotaltracker.com/
+[Pivotal Tracker]: https://www.pivotaltracker.com/
+[Slack]: http://slack.com
 
 <!-- Articles -->
 [How to be a Great Developer]: https://the-pastry-box-project.net/ed-finkler/2014-january-6
