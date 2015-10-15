@@ -11,21 +11,44 @@
 | Other | Other Stuff. |
 
 # brain.food
+## Web Development
 | Link        | Description                                    |
 |-------------|----------------------------------------------|
+| [Git] | Learn Git and Version Control |
 | [HTML] | Learn HTML |
 | [CSS] | Learn CSS |
-| [Node.js] | Learn Node.js, npm, and more |
 | [Javascript] | Learn Javascript |
-| SQLite | Learn SQLite |
-| [Git] | Learn Git and Version Control |
-| [Unity3D] | Learn Unity 3D |
-| [GameDesign] | Learn fundementals of Game Design |
-| [Go] | Learn Go |
-| [Python] | Learn Python |
+| [Node.js] | Learn Node.js, npm, and more |
+| Meteor | Learn Meteor |
+| ReactJS | Learn Facebook's ReactJS |
 | [AngularJS] | Learn Angular JS |
+| SQL | Learn SQL Database |
+| MongoDB | Learn MongoDB |
+| RethinkDB | Learn RethinkDB |
+| [Python] | Learn Python |
 | Ruby | Learn Ruby / Ruby on Rails |
 | iOS | Learn Swift and Objective-C |
+| Android | Learn Android Development |
+| Java | Learn Java Development |
+| [Go] | Learn Go |
+
+## Game Design and Development
+| Link        | Description                                    |
+|-------------|----------------------------------------------|
+| [GameDesign] | Learn fundementals of Game Design |
+| [Unity3D] | Learn Unity 3D |
+
+
+## System Administration
+| Link        | Description                                    |
+|-------------|----------------------------------------------|
+| System Administration | Learn about General Sysadmin stuff | 
+| Chef | Learn Chef |
+| Chocolatey | Learn about Chocolatey the Windows package manager! |
+| Vagrant | Learn about Vagrant |
+| Docker | Learn about Docker |
+| PowerShell | Learn about PowerShell |
+
 
 <!-- Links -->
 [Getting Started]: https://github.com/hackUSU/learn/blob/master/guides/Getting-Started.md
