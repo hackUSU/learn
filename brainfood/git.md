@@ -9,7 +9,7 @@ Git is a method of version control.  Version control is keeping track of what ch
 * [Git Immersion] - Step-by-step, hands-on guide to Git.  Great to jump right into Git.
 
 <!-- Links -->
-[Basic Git Tutorial]: http://google.com/
+[Basic Git Tutorial]: https://github.com/hackUSU/learn/blob/master/guides/git-tutorial.md
 [Ralf Ebert]:http://www.ralfebert.de/tutorials/git/
 [Git Videos]:http://git-scm.com/videos
 [Pro Git]:http://git-scm.com/book/en/v2
