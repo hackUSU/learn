@@ -5,6 +5,7 @@
 | Link        | Description                                    |
 |-------------|----------------------------------------------|
 | [Getting Started] | Read this first if you're new to hackUSU! |
+| [Git Tutorial] | Basic Git Tutorial made by hackUSU |
 | [Tools] | Tools we use and suggest. |
 | Other | Other Stuff. |
 
@@ -38,3 +39,4 @@
 [Go]: https://github.com/hackUSU/learn/blob/master/brainfood/go.md
 [Python]: https://github.com/hackUSU/learn/blob/master/brainfood/python.md
 [AngularJS]: https://github.com/hackUSU/learn/blob/master/brainfood/angularjs.md
+[Git Tutorial]: https://github.com/hackUSU/learn/blob/master/brainfood/git-tutorial.md
