@@ -6,6 +6,7 @@
 |-------------|----------------------------------------------|
 | [Getting Started] | Read this first if you're new to hackUSU! |
 | [Git Tutorial] | Basic Git Tutorial made by hackUSU |
+| [HTML Tutorial] | Basic HTML Tutorial made by hackUSU |
 | [Tools] | Tools we use and suggest. |
 | Other | Other Stuff. |
 
@@ -29,6 +30,7 @@
 <!-- Links -->
 [Getting Started]: https://github.com/hackUSU/learn/blob/master/guides/Getting-Started.md
 [Git Tutorial]: https://github.com/hackUSU/learn/blob/master/guides/git-tutorial.md
+[HTML Tutorial]: http://google.com
 [tools]: https://github.com/hackUSU/learn/blob/master/guides/tools.md
 [HTML]: https://github.com/hackUSU/learn/blob/master/brainfood/html.md
 [CSS]: https://github.com/hackUSU/learn/blob/master/brainfood/css.md
